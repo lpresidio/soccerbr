@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+.cabecalho{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabecalho-imagem{
+    width: 18%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 130px;
+    font-size: 20px;
+}
